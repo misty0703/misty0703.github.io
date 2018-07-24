@@ -24,7 +24,7 @@ description:         >
   简直了，像我这种html根本看不懂的人居然能找到description标签.....
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [minecraft, steam，something interesting]
+sidebar_tags:        []
 
 # Fallback image and color if not overwritten for tag or post
 # image:               /public/img/001.jpg
@@ -45,7 +45,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    这个页面其实是我从酒石酸dalao哪里偷来的模板，不得不说，作为一个初学者就别想搞什么高端操作
+    这个Gitpage其实是我从酒石酸dalao哪里偷来的模板，不得不说，作为一个初学者就别想搞什么高端操作
 
     不知道从什么时候开始，就想弄一个自己的网页玩玩，直到我看到了943的一个视频(https://www.bilibili.com/video/av13994132)
 
