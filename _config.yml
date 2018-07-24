@@ -24,7 +24,7 @@ description:         >
   简直了，像我这种html根本看不懂的人居然能找到description标签.....
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        []
+sidebar_tags:        [1]
 
 # Fallback image and color if not overwritten for tag or post
 # image:               /public/img/001.jpg
